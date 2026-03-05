@@ -1,4 +1,4 @@
-project     = "YOUR-PROJECT-NAME"
-environment = "YOUR-ENV-NAME"
-username    = "YOUR-ADMIN-USERNAME"
-password    = "YOUR-ADMIN-PASSWORD"
+project     = "tastylog"
+environment = "dev"
+username    = "admin"
+password    = "dten0803"
